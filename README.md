@@ -3,7 +3,7 @@ Respositório para os projetos desenvolvidos no decorrer do curso no site https:
 
 #### Desenvolvedor Backend .NET
 
-- [ ] Fundamentos do C# `(17% Completo)`
+- [ ] Fundamentos do C# `(20% Completo)`
 - [ ] Fundamentos da Orientação a Objetos `(0% Completo)`
 - [ ] Fundamentos do SQL Server `(0% Completo)`
 - [ ] Acesso à dados com .NET, C#, Dapper e SQL Server `(0% Completo)`
